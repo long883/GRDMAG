@@ -1,6 +1,6 @@
 local Scripts = {
 	{
-		PlacesIds = {2753915549, 4442272183, 7449423635},
+		PlacesIds = {14861193041, 14861193041, 14861193041},
 		Path = "BloxFruits.luau"
 	},
 	{
